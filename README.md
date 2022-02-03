@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/paramjotsingh0/](https://www.linkedin.com/in/paramjotsingh0/)
 
-- ⚡ Fun fact **lover of good cinema. All time favourites: No Country for Old Men, Tumbbad, There Will Be Blood, The Invisible Guest, ...**
+- ⚡ Fun fact **lover of good cinema. All time favourites: No Country for Old Men, Tumbbad, There Will Be Blood, interstellar, ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
