@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Paramjot Singh</h1>
 <h3>A passionate Software Engineer (googled Engineer for spell check) from India.</h3>
 
-- 🌱 I’m currently learning **JAVA, Docker, Wingardium Leviosa (a magical spell form Harry Potter)**
+- 🌱 I’m currently learning **JAVA, Docker and 🪄 Wingardium Leviosa (a magical spell form Harry Potter)**
 
 - 👯 I loves to collaborate on **stackoverflow**
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/paramjotsingh0/](https://www.linkedin.com/in/paramjotsingh0/)
 
-- ⚡ Fun fact **lover of good cinema. All time favourites: No Country for Old Men, Tumbbad, There Will Be Blood, interstellar, ...**
+- ⚡ Fun fact **lover of good cinema. All time favourites: No Country for Old Men, Tumbbad, There Will Be Blood, Interstellar, ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
