@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Paramjot Singh</h1>
-<h3>A passionate Software Engineer (googled Engineer for spell check) from India.</h3>
+<h3>A passionate Software Engineer from <a href="https://en.wikipedia.org/wiki/Pale_Blue_Dot"><b>Pale Blue Dot.</b> </a></h3>
 
 - 🌱 I’m currently learning **JAVA, Docker and 🪄 Wingardium Leviosa (a magical spell form Harry Potter)**
 
