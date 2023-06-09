@@ -1,15 +1,15 @@
 <h1>Hi 👋, I'm Paramjot Singh</h1>
-<h3>A passionate Software Engineer from <a href="https://en.wikipedia.org/wiki/Pale_Blue_Dot"><b>Pale Blue Dot.</b> </a></h3>
+<h3>A passionate Software Engineer from <a href="https://en.wikipedia.org/wiki/Pale_Blue_Dot"><b>Pale Blue Dot.</b> 😁</a></h3>
 
-- 🌱 I’m currently learning **JAVA, Docker and 🪄 Wingardium Leviosa (a magical spell form Harry Potter)**
+- 🌱 I’m currently learning **React,  and 🪄 Wingardium Leviosa (a magical spell form Harry Potter universe)**
 
 - 👯 I loves to collaborate on **stackoverflow**
 
-- 💬 Ask me about **JavaScript, .NET, C#, JAVA, Entity Framework**
+- 💬 Ask me about **JAVA, Angular, JavaScript, .NET, C#, Entity Framework, SQL Server, Spring, REST APIs**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/paramjotsingh0/](https://www.linkedin.com/in/paramjotsingh0/)
 
-- ⚡ Fun fact **lover of good cinema.**
+- ⚡ Fun fact **love to explore world🗺️, travel🧭, hike🗻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,15 +25,12 @@
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+ <a href="https://react.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="angular" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -46,9 +43,6 @@
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">     
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>           
