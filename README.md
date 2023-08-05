@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Paramjot Singh</h1>
 <h3>A passionate Software Engineer from <a href="https://en.wikipedia.org/wiki/Pale_Blue_Dot"><b>Pale Blue Dot.</b> 😁</a></h3>
 
-- 🌱 I’m currently learning **React,  and 🪄 Wingardium Leviosa (a magical spell form Harry Potter universe)**
+- 🌱 I’m currently learning **Docker, Microservices, and 🪄 Wingardium Leviosa (a magical spell from the Harry Potter universe)**
 
-- 👯 I loves to collaborate on **stackoverflow**
+- 👯 I love to collaborate on **stackoverflow**
 
 - 💬 Ask me about **JAVA, Angular, JavaScript, .NET, C#, Entity Framework, SQL Server, Spring, REST APIs**
 
