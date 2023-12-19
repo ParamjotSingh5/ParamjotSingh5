@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Containerization, Linux administrations, and File structures.**
 
-- 👯 I love to collaborate on **Stackoverflow** and **open source**
+- 👯 I love to collaborate on **Stackoverflow**.
 
 - 💬 Ask me about **JAVA, C#, Angular, JavaScript, React, .NET, SQL, Spring, REST APIs, Linux, GitHub Actions**
 
