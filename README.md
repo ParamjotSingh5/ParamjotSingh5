@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Paramjot Singh</h1>
 <h3>A passionate Software Engineer from <a href="https://en.wikipedia.org/wiki/Pale_Blue_Dot"><b>Pale Blue Dot.</b> 😁</a></h3>
 
-- 🌱 I’m currently learning **Spring Boot, Reactive Java, Rust**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I love to collaborate on **Stackoverflow**.
 
-- 💬 Ask me about **JAVA, C#, Angular, JavaScript, React, .NET, SQL, Spring, REST APIs, GitHub Actions, git, Docker containerization, networks**
+- 💬 Ask me about **JAVA, C#, Angular, JavaScript DOM manipulations, .NET web development, SQL performance tunings, Spring configuration, test containers, REST APIs, GitHub Actions, git, Docker core concepts**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/paramjotsingh0/](https://www.linkedin.com/in/paramjotsingh0/)
 
