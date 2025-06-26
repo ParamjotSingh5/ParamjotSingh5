@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Paramjot Singh</h1>
 <h3>A passionate Software Engineer from <a href="https://en.wikipedia.org/wiki/Pale_Blue_Dot"><b>Pale Blue Dot.</b> 😁</a></h3>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **AI Rag Spring**
 
 - 👯 I love to collaborate on **Stackoverflow**.
 
